@@ -1,0 +1,127 @@
+html{
+  background-color: #FFFCFB;
+}
+
+#lost {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "width" 112.5;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f1eeee;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.quote{
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "width" 112.5;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+#journey{
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.list{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 30px;
+  margin-left: 30px;
+
+}
+span{
+   font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+  color: red;
+}
+.para1{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+}
+.img2{
+  float: right;
+  margin-right: 10px;
+  height: 250px; width: 250px;
+}
+.img1{
+  float: left;
+  margin-right: 10px;
+  height: 350px; width: 250px;
+}
+.recovery{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 40px;
+  text-align: center;
+}
+.shayari{
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+    text-align: center;
+    margin-top: 40px;
+    background-color: #f6eef3;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+a{
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 180px;
+}
+.img3{
+  float: left;
+  margin-right: 10px;
+  height: 100px; width: 150px;
+  margin-left: 10px;
+}
+a[name="none"]{
+  display: block;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 180px;
+}
+#color{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 20px;
+    color: blue;
+}
